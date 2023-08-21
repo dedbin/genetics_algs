@@ -94,6 +94,7 @@ def main():
 
     fig, ax = plt.subplots()
     show_graph(ax, best)
+    plt.title("Best individual")
     plt.show()
 
 
