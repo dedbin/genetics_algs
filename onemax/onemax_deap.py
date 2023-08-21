@@ -1,4 +1,3 @@
-import deap
 import numpy
 from deap import base, tools, creator, algorithms
 import random as rnd
